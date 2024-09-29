@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as c,b as e,t as a,F as n,o as r,N as l}from"./index-COrFJkae.js";const _={class:"container"},i={__name:"AboutView",setup(u){return(t,p)=>(r(),s(n,null,[c(l),e("div",_,[e("h1",null,a(t.$t("AboutView")),1),e("p",null,a(t.$t("AboutView title")),1)])],64))}},b=o(i,[["__scopeId","data-v-65a21d0c"]]);export{b as default};
