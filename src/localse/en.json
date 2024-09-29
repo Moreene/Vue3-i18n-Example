@@ -1,0 +1,11 @@
+{
+  "Home":"Home",
+  "About":"About",
+  "HomeView":"HomeView",
+  "AboutView":"AboutView",
+  "Choose Language":"Choose Language",
+  "zh":"Mandarin",
+  "en":"English",
+  "HomeView title": "This is a piece of text in HomeView",
+  "AboutView title":"This is a piece of text in AboutView"
+}
